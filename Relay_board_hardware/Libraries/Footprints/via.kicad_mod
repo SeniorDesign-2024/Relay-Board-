@@ -1,0 +1,15 @@
+(footprint "via" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 65D13D90)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 10.16) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8f03ae41-61bd-4463-bc12-db0dde34447c)
+  )
+  (fp_text value "BATT_PWR_VIA" (at 0 -10.033) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp b5ea13a8-3e37-4201-b115-0647094f76a8)
+  )
+  (pad "1" thru_hole rect (at 0 0) (size 18.288 18.288) (drill 9.144) (layers *.Cu *.Mask)
+    (zone_connect 2) (tstamp 229089b5-d96a-45a7-930c-5b21e68180d7))
+)
