@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BTS3800SL'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "BTS3800SL" (!) = "", "BTS3800SL", "Other", "726-BTS3800SL", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BTS3800SL?qs=UlfnwZ2x8nQzRqUMCLT9CA%3D%3D", "IC: power switch; low-side; 350mA; Channels:1; N-Channel; SMD", "https://componentsearchengine.com/Datasheets/2/BTS3800SL.pdf", "1.1 mm"
+END_PART
+
+END.

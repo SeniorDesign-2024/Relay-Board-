@@ -1,0 +1,15 @@
+.BTS3800SL :1 ;IC: power switch; low-side; 350mA; Channels:1; N-Channel; SMD
+BTS3800SL
+*STM IC
+*NGS
+*PLB 1="DRAIN" 2="N.C._1" 3="IN" 4="SOURCE" 5="N.C._2"
+*MXP 5
+*DFN BTS3800SL
+~!Mouser Part Number (726-BTS3800SL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BTS3800SL?qs=UlfnwZ2x8nQzRqUMCLT9CA%3D%3D)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (BTS3800SL)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/BTS3800SL.pdf)
+~!Height (1.1mm)
+BTS3800SL
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

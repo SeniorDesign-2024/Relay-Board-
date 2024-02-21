@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BTS3800SL"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BTS3800SL")
+        (spec "default")
+    )
+)

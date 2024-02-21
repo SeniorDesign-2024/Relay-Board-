@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BTS3800SL
+D IC: power switch; low-side; 350mA; Channels:1; N-Channel; SMD
+K
+F https://componentsearchengine.com/Datasheets/2/BTS3800SL.pdf
+$ENDCMP
+#
+#End Doc Library
