@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.1,
-          "height": 8.6,
-          "width": 2.1
+          "drill": 9.144,
+          "height": 25.4,
+          "width": 25.4
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.762
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -189,7 +189,7 @@
           "drill": 0.0
         }
       ],
-      "zones_allow_external_fillets": true,
+      "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
     "layer_presets": [],
@@ -415,7 +415,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Relay_board_hardware.kicad_pro",
+    "filename": "Relay_board_hardware_REROUTE.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -449,7 +449,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "Relay_board_hardware.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -479,7 +479,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "KiCad",
+    "net_format_name": "",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,

@@ -1,4 +1,4 @@
-22092162552321912
+22097288130358018
 0-customs
 AECN11012
 
@@ -28,6 +28,20 @@ MOLEX_SL_03_Horizontal
 3
 3
 0-customs
+MOLEX_SL_05_Horizontal
+
+
+0
+5
+5
+0-customs
+Square_Anderson_2_H_Side_By_Side
+
+
+0
+2
+2
+0-customs
 Square_Anderson_2_V_Side_By_Side
 
 
@@ -42,7 +56,14 @@ roberto
 0
 0
 0-customs
-via
+via_L1000mil_W1000mil
+
+
+0
+1
+1
+0-customs
+via_L2500mil_W1000mil
 
 
 0
