@@ -1,4 +1,4 @@
-22097291044023914
+22111248554189835
 0-customs
 AECN11012
 
@@ -69,6 +69,20 @@ via_L2000mil_W1000mil
 0
 1
 1
+0-customs
+woodley
+
+
+0
+0
+0
+0-customs
+woodley2
+
+
+0
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61404,12 +61418,33 @@ OKI
 3
 3
 MRDT_Devices
+PKE3316ZPI
+
+
+0
+6
+6
+MRDT_Devices
 Q36SR12020NRFA
 
 
 0
 8
 8
+MRDT_Devices
+SHHD003A0A-SRZ_Surface_Mount
+
+
+0
+6
+6
+MRDT_Devices
+SHHD003A0A41Z_Through_Hole
+
+
+0
+6
+6
 MRDT_Devices
 TSR_1-2433
 
@@ -61585,6 +61620,13 @@ USEQGSEAN8L180
 0
 36
 30
+MRDT_Passives
+3528SMD_Diode
+
+
+0
+2
+2
 MRDT_Passives
 ATC_Fuse_Block
 
@@ -62006,13 +62048,6 @@ Logo, MRDT
 0
 0
 MRDT_Silkscreens
-0_MRDT_Logo_7.5mm_1
-
-Logo, MRDT
-0
-0
-0
-MRDT_Silkscreens
 0_MRDT_Logo_10mm
 
 Logo, MRDT
@@ -62133,6 +62168,27 @@ Sean_Duda_Signature_41.0mmx30.7mm
 0
 MRDT_Silkscreens
 yagi
+
+
+0
+0
+0
+MRDT_Silkscreens
+yagi2_20mm
+
+
+0
+0
+0
+MRDT_Silkscreens
+yagi2_30mm
+
+
+0
+0
+0
+MRDT_Silkscreens
+yagi2_40mm
 
 
 0
